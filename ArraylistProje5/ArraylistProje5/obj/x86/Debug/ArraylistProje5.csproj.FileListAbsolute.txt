@@ -1,0 +1,7 @@
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArraylistProje5\ArraylistProje5\bin\Debug\ArraylistProje5.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArraylistProje5\ArraylistProje5\bin\Debug\ArraylistProje5.pdb
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArraylistProje5\ArraylistProje5\obj\x86\Debug\ArraylistProje5.Form1.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArraylistProje5\ArraylistProje5\obj\x86\Debug\ArraylistProje5.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArraylistProje5\ArraylistProje5\obj\x86\Debug\ArraylistProje5.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArraylistProje5\ArraylistProje5\obj\x86\Debug\ArraylistProje5.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArraylistProje5\ArraylistProje5\obj\x86\Debug\ArraylistProje5.pdb
