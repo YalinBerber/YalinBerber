@@ -1,0 +1,7 @@
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArrayListUygulama\ArrayListUygulama\bin\Debug\ArrayListUygulama.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArrayListUygulama\ArrayListUygulama\bin\Debug\ArrayListUygulama.pdb
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArrayListUygulama\ArrayListUygulama\obj\x86\Debug\ArrayListUygulama.Form1.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArrayListUygulama\ArrayListUygulama\obj\x86\Debug\ArrayListUygulama.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArrayListUygulama\ArrayListUygulama\obj\x86\Debug\ArrayListUygulama.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArrayListUygulama\ArrayListUygulama\obj\x86\Debug\ArrayListUygulama.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\ArrayListUygulama\ArrayListUygulama\obj\x86\Debug\ArrayListUygulama.pdb
