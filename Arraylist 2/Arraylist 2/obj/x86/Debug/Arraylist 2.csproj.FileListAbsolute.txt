@@ -1,0 +1,7 @@
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist 2\Arraylist 2\bin\Debug\Arraylist 2.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist 2\Arraylist 2\bin\Debug\Arraylist 2.pdb
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist 2\Arraylist 2\obj\x86\Debug\Arraylist_2.Form1.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist 2\Arraylist 2\obj\x86\Debug\Arraylist_2.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist 2\Arraylist 2\obj\x86\Debug\Arraylist 2.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist 2\Arraylist 2\obj\x86\Debug\Arraylist 2.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist 2\Arraylist 2\obj\x86\Debug\Arraylist 2.pdb
