@@ -1,0 +1,7 @@
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist Uygulama 4\Arraylist Uygulama 4\bin\Debug\Arraylist Uygulama 4.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist Uygulama 4\Arraylist Uygulama 4\bin\Debug\Arraylist Uygulama 4.pdb
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist Uygulama 4\Arraylist Uygulama 4\obj\x86\Debug\Arraylist_Uygulama_4.Form1.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist Uygulama 4\Arraylist Uygulama 4\obj\x86\Debug\Arraylist_Uygulama_4.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist Uygulama 4\Arraylist Uygulama 4\obj\x86\Debug\Arraylist Uygulama 4.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist Uygulama 4\Arraylist Uygulama 4\obj\x86\Debug\Arraylist Uygulama 4.exe
+C:\Users\Kullanıcı\Desktop\Yalın Berber\Arraylist Uygulama 4\Arraylist Uygulama 4\obj\x86\Debug\Arraylist Uygulama 4.pdb
